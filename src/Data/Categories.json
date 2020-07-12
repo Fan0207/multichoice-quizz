@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Histoire",
+    "slug": "//histoire"
+  },
+  {
+    "id": 2,
+    "title": "Animaux",
+    "slug": "//animaux"
+  },
+  {
+    "id": 3,
+    "title": "Arts et culture",
+    "slug": "//arts-et-culture"
+  }
+]
